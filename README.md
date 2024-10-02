@@ -6,6 +6,7 @@ A list of my favorite development-related content creators, grouped by area
 ## CSS
 
 ## Design
+- [Juxtopposed](https://www.youtube.com/@juxtopposed)
 
 ## Frontend
 
