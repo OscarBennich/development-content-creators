@@ -1,7 +1,7 @@
 # Content creators
 A list of my favorite development-related content creators, grouped by area
 
-## .NET
+## C# .NET
 
 ## CSS
 
