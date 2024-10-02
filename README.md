@@ -13,3 +13,6 @@ A list of my favorite development-related content creators, grouped by area
 
 ## Architecture & Ways of Working
 - [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery)
+
+## Other
+- [Internet of Bugs](https://www.youtube.com/@InternetOfBugs)
