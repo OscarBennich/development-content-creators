@@ -1,4 +1,4 @@
-# Content creators
+# Development-related Content Creators
 A list of my favorite development-related content creators, grouped by area
 
 ## C# .NET
