@@ -2,7 +2,8 @@
 A list of my favorite development-related content creators, grouped by area
 
 ## C# .NET
-
+- [Ardalis](https://www.youtube.com/@Ardalis)
+- 
 ## CSS
 
 ## Design
