@@ -12,11 +12,13 @@ A list of my favorite development-related content creators, grouped by area
 
 ## Frontend
 - [Web Dev Cody](https://www.youtube.com/@WebDevCody)
-- 
 
 ## Backend
 
-## Architecture & Ways of Working
+## Software Architecture
+- [CodeOpinion](https://www.youtube.com/@CodeOpinion)
+
+## Ways of Working & Tech career
 - [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery)
 - [Thriving Technologist](https://www.youtube.com/@HealthyDev)
 
