@@ -5,6 +5,7 @@ A list of my favorite development-related content creators, grouped by area
 - [Nick Chapsas](https://www.youtube.com/@nickchapsas)
 - [Milan Jovanović](https://www.youtube.com/@MilanJovanovicTech)
 - [Ardalis](https://www.youtube.com/@Ardalis)
+- [IAmTimCorey](https://www.youtube.com/@IAmTimCorey)
 
 ## Frontend
 - [Web Dev Cody](https://www.youtube.com/@WebDevCody)
@@ -32,7 +33,6 @@ A list of my favorite development-related content creators, grouped by area
 
 ## Other
 - [KRAZAM](https://www.youtube.com/@KRAZAM)
-- [Fireship](https://www.youtube.com/@Fireship)
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen/videos)
 - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)
 - [Computerphile](https://www.youtube.com/@Computerphile)
